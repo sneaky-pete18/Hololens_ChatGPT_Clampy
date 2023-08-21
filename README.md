@@ -1,4 +1,5 @@
 # Hololens_ChatGPT_Clampy
 Repo to hold Clampy, a ChatGPT UI front end made for Hololens in Unity. 
 
-![clampy](https://media.giphy.com/media/atZFBebYv0wSFwBNrT/giphy.gif)
+ <img src="[https://media3.giphy.com/media/aUovxH8Vf9qDu/giphy.gif](https://media.giphy.com/media/atZFBebYv0wSFwBNrT/giphy.gif)https://media.giphy.com/media/atZFBebYv0wSFwBNrT/giphy.gif
+"/>
